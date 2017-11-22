@@ -4,7 +4,7 @@ a:
   b: a
 b:
   c: 1
-  d: a
+  d: b
 c:
   e: 1
   f: a
